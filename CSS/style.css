@@ -40,5 +40,17 @@ body {
   background: #598392;
   padding: 8px;
   border-radius: 15px;
-  margin: 25px 45px;
+  margin: 15px 45px;
+}
+
+.dishesContainer {
+  border: 2px solid #01161e;
+  background-color: #01161e;
+  padding: 16px;
+  width: fit-content;
+  margin: auto;
+  border-radius: 50px;
+}
+.dishesContainer p {
+  color: #aec3b0;
 }
