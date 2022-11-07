@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+body {
+  background-color: #eff6e0;
+}
 .handwriting {
   font-family: "Great Vibes", cursive;
+  color: #202020;
 }
 .mainText {
   font-size: 72px;
@@ -12,7 +16,29 @@
   width: 50vw;
 }
 .navElement {
-  padding: 0px 35px;
+  margin: 0px 32px;
   font-size: 16px;
   text-decoration: none;
+  color: #202020;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.bdayGirlImg {
+  width: 150px;
+  border: 5px solid #124559;
+  border-radius: 3px;
+  padding: 5px;
+}
+.imgContainer {
+  width: 70%;
+  margin: auto;
+}
+.bdayWish {
+  text-align: center;
+  color: #124559;
+}
+.bdayWishContainer {
+  background: #598392;
+  padding: 8px;
+  border-radius: 15px;
+  margin: 25px 45px;
 }
