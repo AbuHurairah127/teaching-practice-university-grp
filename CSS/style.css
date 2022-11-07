@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+.handwriting {
+  font-family: "Great Vibes", cursive;
+}
+.mainText {
+  font-size: 72px;
+  text-align: center;
+  margin: 10px 0px 25px 0px;
+}
+.blockCenter {
+  margin: auto;
+  width: 50vw;
+}
+.navElement {
+  padding: 0px 35px;
+  font-size: 16px;
+  text-decoration: none;
+}
